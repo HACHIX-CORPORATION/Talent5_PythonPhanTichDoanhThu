@@ -3,13 +3,18 @@ Dự án phân tích và dự đoán doanh thu cửa hàng
 
 # Nội dung dự án
 1. Phân tích doanh thu các sản phẩm trong cửa hàng
-2. Tìm ra những sản phẩm đang bán chạy, không bán chạy trong cửa hàng
-3. Dùng từ khóa của các sản phẩm trong cửa hàng để lấy thông tin google trend giúp dự đoán doanh thu trong thời gian tới
+    - xem tổng doanh thu của cửa hàng theo từng ngày
+    - tìm 10 sản phẩm có số lượng bán lớn nhất của cửa hàng
+    - tìm 10 sản phẩm có doanh thu lớn nhất của cửa hàng trong từng tuần
+    ...
+
+2. Dùng từ khóa của các sản phẩm trong cửa hàng để lấy thông tin google trend giúp dự đoán doanh thu trong thời gian tới
+
+# File phân tích dữ liệu
+File excel để trong phần File Doanh Thu
 
 # Những yêu cầu với học viên
 1. Đã có kinh nghiệm với 1 ngôn ngữ lập trình nào đó
-
-# Thông tin doanh thu: file csv
 
 # Những kiến thức dùng trong dự án
 1. Ngôn ngữ Python
